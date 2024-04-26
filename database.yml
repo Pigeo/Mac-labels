@@ -1,0 +1,34 @@
+models:
+  - MBA: Mac Book Air
+  - MBP: Mac Book Pro
+screen sizes:
+  - 15
+  - 15.4
+colors:
+  - SPG: Space Grey
+  - SLV: Silver
+  - GLD: Gold
+cpus:
+  - 8C CPU: 8 cores Apple Silicon
+  - 2.53: Intel Core i5, 2.53 Ghz
+  - 2.9Ghz: Intel Core i9, 2.9 Ghz
+gpus:
+  - 10C GPU: 10 cores Apple Silicon
+  - Radeon Pro 460: AMD Radeon Pro 460
+ram sizes:
+  - 16GB: 16GB, soldered on the logic board
+  - 2x2GB: 2 sticks of 2GB (4GB total)
+storage sizes:
+  - 1TB: 1000GB
+  - 512GB: 512GB
+  - 500: 500GB
+keyboards:
+  - KB-F: French (AZERTY)
+  - KB-SF: Swiss French (QWERTZ)
+  - KB-US: US English (QWERTY)
+  - KB-TA: Taiwan
+other locales:
+  - BEL: Belgium ??? # found on Macs sold in France !!!, either with KB-F or KB-SF
+  - TWN: Taïwan ??? # found on Macs with KB-TA
+
+
